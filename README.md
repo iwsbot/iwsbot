@@ -1,0 +1,2 @@
+# iwsbot
+kakaotalk iwsbot
